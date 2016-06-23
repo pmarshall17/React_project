@@ -21,7 +21,7 @@ body {
   line-height: 40px;
 }
 .result > p {
-  /* margin-left: 10px; */
+   margin-left: 10px; 
 }
 .clear, span {
   height: 40px;
